@@ -9,6 +9,14 @@ If you want to learn more about Quarkus, please visit its website: https://quark
 You can run your application in dev mode that enables live coding using:
 ```
 ./mvnw quarkus:dev
+
+Then open your 2 browser windows to http://localhost:8080/:
+
+Enter a name in the top text area (use 2 different names).
+
+Click on connect
+
+Send and receive messages
 ```
 
 ## Packaging and running the application
